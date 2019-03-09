@@ -1,0 +1,8 @@
+{
+  "name": "version-parser",
+  "version": "0.0.1",
+  "description": "This package can parse and compare semantic versioning.",
+  "main": "index.js",
+  "author": "Stefan Eiermann",
+  "license": "MIT"
+}
